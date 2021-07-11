@@ -7,5 +7,8 @@ public class MyDev2 {
         //some changes
         Integer x2 = 5+6;
         System.out.println(x2);
+        Integer x1 = 5+6;
+        System.out.println(x);
+        System.out.println(x1);
     }
 }
